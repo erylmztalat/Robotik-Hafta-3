@@ -1,3 +1,18 @@
+BAKILACAK LİNKLER
+
+http://tec.ege.edu.tr/dersler/sensorler.pdf
+
+http://www.selcuk.edu.tr/dosyalar/files/074/Sens%C3%B6rler_Ve_Transduserler.pdf
+
+http://diyot.net/sensor-cesitleri-nelerdir/
+
+http://robots101.com/robot-sensorleri/
+
+https://zohraberkan.wordpress.com/ders-notlari/robotik/
+
+240.sayfa  http://www.asafvarol.com/dnotlar/robotik/robotik_kitabi.pdf
+
+
 == ROS’un Destekledikleri Sensörler
 
 Resmi ROS paketleri tarafından desteklenen ve daha pek çok ROS topluluğu tarafından desteklenen bir çok robotik sensör bulunmaktadır. Bunlar aşağıda listelenmiştir.
