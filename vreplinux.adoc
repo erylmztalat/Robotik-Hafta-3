@@ -1,0 +1,27 @@
+= VREP KURULUMU =
+
+== 1-)indirme İşlemi ==
+
+* http://www.coppeliarobotics.com/downloads.html adresinden bilgisayar özelliklerine göre indirme işlemi yapılır.
+
+== 2-)Kurulum İşlemi ==
+
+* Yükleme tamamlandıktan sonra terminal kullanılarak ilgili dosyanın bulunduğu klasör açılır. 
+
+[NOTE]
+
+       *cd Desktop*
+
+* Klasörün içinde bulunan ilgili dosya açılır.
+
+[NOTE]
+
+      *cd V-REP_PRO_EDU_V3_3_2_64_Linux*
+      
+
+* Dosyanın içindeki V-rep uygulaması aşağıdaki kod yazılarak çalıştırılır.
+
+[NOTE]
+  
+      *./vrep.sh*
+         
